@@ -1,6 +1,6 @@
 # Onchain Options Analysis
 
-This repository contains scripts and notebooks for an academic research, focused on the extraction, processing, and analysis of options trading data from both on-chain (specifically, Lyra V2) and off-chain (Deribit) sources. The primary objectives of this project include calculating implied volatility, analyzing put-call parity, and exploring a simple trading strategies through data-driven insights. This is part of academic research. 
+This repository contains scripts and notebooks for an academic research, focused on the extraction, processing, and analysis of options trading data from both on-chain (Derive - formerly Lyra V2) and off-chain (Deribit) sources. The primary objectives of this project include calculating implied volatility, analyzing put-call parity, and exploring a simple trading strategies through data-driven insights. This is part of academic research. 
 
 ## Key Components
 
